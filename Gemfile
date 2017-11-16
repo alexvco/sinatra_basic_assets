@@ -1,4 +1,6 @@
 source :rubygems
 
-gem "sinatra"
-# gem 'sinatra-asset-pipeline'
+gem 'sinatra'
+gem 'sprockets'
+gem 'sass'
+gem 'uglifier'
